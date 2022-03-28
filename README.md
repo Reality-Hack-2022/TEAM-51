@@ -18,7 +18,7 @@ This project combines two platforms, AR and VR, to allow you to experience memor
 
 ## How we built it
 
-The fusion of two platforms, Rhino3D and Unity, allows the experience to be viewed on mobile, HoloLens, and Oculus. Both use a free 3D kitchen asset kit from the Unity Asset Store and free 3D models of kitchen objects manipulated in Blender. We used sound samples from sound libraries processed and edited with Pro Tools.
+The fusion of two platforms, Unity and Rhino 3D, allows the experience to be viewed on mobile, HoloLens, and Oculus. Both use a free 3D kitchen asset kit from the Unity Asset Store and free 3D models of kitchen objects manipulated in Blender. We used sound samples from sound libraries processed and edited with Pro Tools.
 
 ## Challenges we ran into
 
@@ -42,3 +42,8 @@ This tool can be further developed to accomplish our goals of providing cognitiv
 
 - Wellness of and for the Mind and Body
 - Everyday XR and the Future of Work
+
+---
+
+**Footnotes:**
+1 Jahn, Holger. “Memory loss in Alzheimer's disease.” Dialogues in clinical neuroscience vol. 15,4 (2013): 445-54. doi:10.31887/DCNS.2013.15.4/hjahn [Memory loss in Alzheimer's disease - nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898682/)
